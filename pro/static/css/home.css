@@ -1,0 +1,50 @@
+body{
+ background:#20B2AA;
+ }
+
+.head{
+ text-align:center;
+ color:#033E3E;
+ text-transform:uppercase;
+ font-weight:bold;
+ font-size:40px;
+ }
+
+.content{
+ width:700px;
+ height:400px;
+ background:#FEFCFF;
+ margin-left:24%;
+ border-radius:10px;}
+
+h1{
+ text-align:center;
+ margin:50px;
+ padding-top:10px;
+ font-family:Arial, Helvetica, sans-serif;
+ text-transform:uppercase;
+ color:#157DEC;
+ }
+
+.submit{
+ width:100px;
+ height:100px;
+ color:blue;
+ }
+
+a{
+  width:100px;
+ height:100px;
+ color:blue;
+ }
+
+.btn{
+ width:150px;
+ height:150px;
+ background:#20B2AA;
+ margin-left:40%;
+ border-radius:100px;
+ }
+
+h2{
+ text-align:center;}
